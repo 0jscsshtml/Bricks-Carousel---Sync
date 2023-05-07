@@ -9,7 +9,7 @@
  
  #2 This mainly meant for carousel that have more than 5 slides. Style for large screen only, the rest all up to you.
  
- #3 Not tested with dynamic content yet, but the concept is the same, you may need to inspect element to get the right target element.
+ #3 Tested with MB Image Advance field as dynamic content as well.
  
  #4 Reference
   - https://swiperjs.com/swiper-api
