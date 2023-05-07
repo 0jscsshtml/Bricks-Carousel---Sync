@@ -7,11 +7,14 @@
  
  #1 Import the Section Template, place it on page, it should work out of box. In case is not working, please cross check the script in Code Element with the carousels classname.
  
- #2 This mainly meant for carousel that have more than 5 slides.
+ #2 This mainly meant for carousel that have more than 5 slides. Style for large screen only, the rest all up to you.
  
  #3 Not tested with dynamic content yet, but the concept is the same, you may need to inspect element to get the right target element.
  
- #3 Test Environment
+ #4 Reference
+  - https://swiperjs.com/swiper-api
+ 
+ #5 Test Environment
   - Wordpress v6.2
   - Bricks v1.7.3
   - Localwp v6.7.1+6369
