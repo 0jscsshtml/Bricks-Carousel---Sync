@@ -9,10 +9,11 @@
  
  #2 This mainly meant for carousel that have more than 5 slides.
  
+ #3 Not tested with dynamic content yet, but the concept is the same, you may need to inspect element to get the right target element.
+ 
  #3 Test Environment
   - Wordpress v6.2
   - Bricks v1.7.3
   - Localwp v6.7.1+6369
   - PHP v8.1.9
   - MySQL v8.0.16
- 
