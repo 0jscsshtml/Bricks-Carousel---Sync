@@ -4,9 +4,9 @@
  - Center Mode without empty space.
  - Custom pagination
  - Horizontal/Vertical Thumbnail Carousel
- - Some tweak to solve swiper-slide-active class stop switching and no slideChange event fired when all slides are visible.
+ - Some tweak to solve swiper-slide-active class stop switching and no slideChange event fired issue, thumb and controller.control method that cannot achieve what I need.
  
- #1 Import the Section Template, set carousel 'Next' and 'Prev' navigation Icon (included), set you images. it should work out of box.
+ #1 Import the Section Template, set carousel 'Next' and 'Prev' navigation Icon (included), set images, change last slide index number in Code Element script. It should work out of box.
  
  #2 This mainly meant for carousel that have more than 5 slides. 
  
