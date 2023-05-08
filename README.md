@@ -1,12 +1,16 @@
 # Bricks-Carousel---Sync 2 Carousels( Loop Mode Disabled )
 
-# Pain Points
- - Loop mode bloated DOM.
- - In Loop Mode disabled, when swiper wrapper fully translated and all slides are visible, swiper-slide-active class stop switching even current active slide is not yet reach to the last slide(thumbnail carousel).
+# Custom Config
+ - Center Mode without empty space.
+ - Custom pagination
+ - Horizontal/Vertical Thumbnail Carousel
+ - Some tweak to solve swiper-slide-active class stop switching and no slideChange event fired when all slides are visible.
  
- #1 Import the Section Template, set carousel 'Next' navigation Icon, set images, place it on page, it should work out of box. In case is not working, please cross check the script in Code Element with the carousels classname.
+ #1 Import the Section Template, set carousel 'Next' and 'Prev' navigation Icon (included), set you images. it should work out of box.
  
- #2 This mainly meant for carousel that have more than 5 slides. Style for large screen only, the rest all up to you.
+ #2 This mainly meant for carousel that have more than 5 slides. 
+ 
+ #3 Style for large screen only, the rest I just leave to you.
  
  #3 Tested with MB Image Advance field as dynamic content as well.
  
